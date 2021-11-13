@@ -1,4 +1,4 @@
-# hiphipzoo.ray
+# About This Project
 
 Hi everyone! This is a website made by a group of high school friends for the HackFit hackathon.
 
